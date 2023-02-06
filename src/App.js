@@ -9,6 +9,9 @@ function App() {
         <p>
           Hello world!
         </p>
+        <p>
+          Hello two!!
+        </p>
       </header>
     </div>
   );
